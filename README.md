@@ -10,6 +10,7 @@ Samedi, Gymnase Berty Albrecht, Suresnes:
 - Ados/Adultes 10h30 - 12h
 - Enfants 6/8 ans 14h - 15h
 - Enfants 9/12 ans 15h - 16h
+- Cours spécifiques 16h - 17h
 
 ## Contact
 
