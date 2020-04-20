@@ -13,7 +13,7 @@ Samedi, Gymnase Berty Albrecht, Suresnes:
 
 ## Contact
 
-Pascal Pinault: 06 72 89 76 64
+Pascal Pinault: 06 86 42 76 64
 
 ## Enseignants
 
