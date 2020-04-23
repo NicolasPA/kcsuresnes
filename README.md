@@ -24,9 +24,7 @@ Assistant: Nicolas Parot Alvarez, 4ème dan
 
 Fondateur: Pierre Blot, 8ème Dan
 
-<p>
-<img width=390 src="https://raw.githubusercontent.com/NicolasPA/kcsuresnes/master/kcs_blot.jpeg" alt="Stage avec Pierre Blot"/>
-</p>
-<p>
-<img width=390 src="https://raw.githubusercontent.com/NicolasPA/kcsuresnes/master/kcs_lav.png" alt="Stage avec Jean-Pierre Lavorato"/>
-</p>
+![Stage avec Pierre Blot](kcs_blot_390.jpeg)
+
+![Stage avec Jean-Pierre Lavorato](kcs_lav.jpg)
+
