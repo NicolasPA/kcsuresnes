@@ -35,3 +35,4 @@ Fondateur: Pierre Blot, 8ème Dan
 
 ![Stage avec Jean-Pierre Lavorato](kcs_lav.jpg)
 
+Site maintenu par [NicolasPA](https://github.com/NicolasPA/kcsuresnes).
