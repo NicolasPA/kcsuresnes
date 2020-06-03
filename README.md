@@ -8,7 +8,7 @@ Club de karaté do Shotokan
 
 **Mercredi**  
 Gymnase Henri Sellier  
-5 Avenue Emmanuel Kant, 92150 Suresnes
+6 Avenue Emmanuel Kant, 92150 Suresnes
 - Ados 18h15 - 19h15
 - Adultes 19h30 - 21h
 
