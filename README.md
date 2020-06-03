@@ -1,4 +1,5 @@
 Club de karaté do Shotokan
+- Enfants, ados et adultes
 - Karaté traditionnel
 - Self défense
 - Compétition combat et kata
