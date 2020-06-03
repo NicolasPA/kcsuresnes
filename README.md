@@ -23,6 +23,7 @@ Gymnase Berty Albrecht
 ## Contact
 
 Pascal Pinault: 06 86 42 76 64
+kcsuresnes@gmail.com
 
 ## Enseignants
 
