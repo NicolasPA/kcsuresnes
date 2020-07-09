@@ -20,30 +20,28 @@ Gymnase Berty Albrecht
 - Enfants 9/12 ans 15h - 16h
 - Cours spécifiques 16h - 17h
 
+## Enseignants
+
+Professeur: Pascal Pinault, 5ème dan  
+Assistant: Nicolas Parot Alvarez, 4ème dan  
+Fondateur: Pierre Blot, 8ème Dan
+
 ## Tarifs
 
 Les prix comprennent 37€ de licence de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
 https://www.ffkarate.fr/espace-licencies/la-licence-federale/
 
-**Enfants ≤  12 ans**  
-280€, le deuxième enfant de la même famile 250€.
+**Enfants**  
+280€  
+250€ pour le deuxième enfant de la même famile
 
-**Ados/Adultes > 12 ans**  
-
+**Ados/Adultes**  
+350€
 
 ## Contact
 
-Pascal Pinault: 06 86 42 76 64
-
+Pascal Pinault: 06 86 42 76 64  
 kcsuresnes@gmail.com
-
-## Enseignants
-
-Professeur: Pascal Pinault, 5ème dan
-
-Assistant: Nicolas Parot Alvarez, 4ème dan
-
-Fondateur: Pierre Blot, 8ème Dan
 
 ![Stage avec Pierre Blot](kcs_blot_390.jpeg)
 
