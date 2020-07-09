@@ -28,8 +28,7 @@ Fondateur: Pierre Blot, 8ème Dan
 
 ## Tarifs
 
-Les prix comprennent 37€ de licence de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
-https://www.ffkarate.fr/espace-licencies/la-licence-federale/
+Les prix comprennent 37€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
 
 **Enfants**  
 280€  
