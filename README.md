@@ -1,3 +1,9 @@
+## :martial_arts_uniform: Reprise :martial_arts_uniform:
+- Samedi 5 septembre 2020: RDV au [forum des associations de Suresnes](https://www.suresnes.fr/forum-des-associations-2020/) pour nous rencontrer
+- Mercredi 9 septembre 2020: reprise des cours ados et adultes (cf info plus bas)
+- Samedi 12 septembre 2020: reprise des cours enfants  (cf info plus bas)
+___
+
 Club de karaté do Shotokan
 - Enfants, ados et adultes
 - Karaté traditionnel
