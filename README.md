@@ -7,6 +7,8 @@ Nous contacter pour les informations de connexion.
 Pascal Pinault: 06 86 42 76 64  
 kcsuresnes@gmail.com
 
+Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
+
 <hr>
 
 Club de karaté do Shotokan
