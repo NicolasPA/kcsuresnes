@@ -1,10 +1,13 @@
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Reprise <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=24px> Samedi 5 septembre 2020:  
-RDV au [forum des associations de Suresnes](https://www.suresnes.fr/forum-des-associations-2020/) stand n°58 pour nous rencontrer.  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=24px> Mercredi 9 septembre 2020:  
-Reprise des cours ados et adultes (cf info plus bas).  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=24px> Samedi 19 septembre 2020:  
-Reprise des cours enfants  (cf info plus bas).  
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Cours en ligne pendant le confinement <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=24px> Mardi 19h30-20h30 avec Nicolas    
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=24px> Jeudi 19h30-20h30 avec Pascal  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=24px> Dimanche 10h30-12h avec Pascal 
+
+Nous contacter pour les informations de connexion.  
+Pascal Pinault: 06 86 42 76 64  
+kcsuresnes@gmail.com
+
+Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
 
 <hr>
 
