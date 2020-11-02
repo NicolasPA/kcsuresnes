@@ -1,11 +1,11 @@
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Cours en ligne pendant le confinement <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=24px> Mardi 19h30-20h30 avec Nicolas    
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=24px> Jeudi 19h30-20h30 avec Pascal  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=24px> Dimanche 10h30-12h avec Pascal 
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Cours en ligne <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
 
-Nous contacter pour les informations de connexion.  
-Pascal Pinault: 06 86 42 76 64  
-kcsuresnes@gmail.com
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=24px> Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
+https://meet.google.com/kmt-kijh-bsw  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=24px> Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
+Zoom 2371357023  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=24px> Dimanche 10h30-12h, cardio-muscualiare tous niveaux, Pascal Pinault  
+Zoom 2371357023 
 
 Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
 
