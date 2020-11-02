@@ -15,8 +15,8 @@ kcsuresnes@gmail.com
 
 ## Gant d'or de Houilles
 
-Hicham et Delphine Chennaf
-karate@gantdordehouilles.com
+Hicham et Delphine Chennaf  
+karate@gantdordehouilles.com  
 http://www.gantdordehouilles.com/accueil/karate
 
 - Lundi 18H30 : cours karaté enfants tous niveaux (à partir de 6 ans)  
