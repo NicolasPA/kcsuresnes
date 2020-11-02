@@ -1,5 +1,7 @@
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Cours en ligne <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
 
+Nous mettons en place des cours en ligne pendant les périodes de confinement:
+
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=24px> Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
 [https://meet.google.com/kmt-kijh-bsw](https://meet.google.com/kmt-kijh-bsw)  
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=24px> Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
