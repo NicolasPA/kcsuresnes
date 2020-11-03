@@ -11,7 +11,7 @@ kcsuresnes@gmail.com
 [https://meet.google.com/kmt-kijh-bsw](https://meet.google.com/kmt-kijh-bsw) 
 - Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
 Zoom 2371357023  
-- Dimanche 10h30-12h, cardio-muscualiare tous niveaux, Pascal Pinault  
+- Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
 Zoom 2371357023 
 
 
