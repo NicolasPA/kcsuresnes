@@ -6,7 +6,7 @@ Nous mettons en place des cours en ligne pendant les périodes de confinement:
 [https://meet.google.com/kmt-kijh-bsw](https://meet.google.com/kmt-kijh-bsw)  
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=24px> Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
 Zoom 2371357023  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=24px> Dimanche 10h30-12h, cardio-muscualiare tous niveaux, Pascal Pinault  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=24px> Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
 Zoom 2371357023 
 
 Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
@@ -47,7 +47,7 @@ Les prix comprennent 37€ de [licence](https://www.ffkarate.fr/espace-licencies
 
 **Enfants**  
 280€  
-250€ pour le deuxième enfant de la même famile
+250€ pour le deuxième enfant de la même famille
 
 **Ados/Adultes**  
 350€
