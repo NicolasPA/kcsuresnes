@@ -7,12 +7,11 @@ Liste de cours de karaté en ligne ouverts à tous les pratiquants.
 Pascal Pinault: 06 86 42 76 64  
 kcsuresnes@gmail.com
 
-- Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
-[https://meet.google.com/kmt-kijh-bsw](https://meet.google.com/kmt-kijh-bsw) 
-- Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
-Zoom 2371357023  
-- Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
 Zoom 2371357023 
+
+- Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
+- Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
+- Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
 
 
 ## Gant d'or de Houilles
@@ -29,6 +28,10 @@ Code secret : 804745
 [https://afnor.zoom.us/j/98542140213?pwd=YjhhZFpzSDFLTzk0ejYrSjMraXVqdz09](https://afnor.zoom.us/j/98542140213?pwd=YjhhZFpzSDFLTzk0ejYrSjMraXVqdz09)  
 ID de réunion : 985 4214 0213  
 Code secret : 501587  
+- Mercredi 18h: cours combat, à partir de 7 ans  
+https://afnor.zoom.us/j/95078053084?pwd=ZCtsWjN6K1RUU1UrWktVS1hFbFE3QT09  
+ID de réunion : 950 7805 3084  
+Code secret : 510377  
 - Jeudi 20h30 : cours krav maga tous niveaux  
 [https://afnor.zoom.us/j/98365252204?pwd=NUlIWkRSZ2ZneHU4MUpEUkZOZDNuUT09](https://afnor.zoom.us/j/98365252204?pwd=NUlIWkRSZ2ZneHU4MUpEUkZOZDNuUT09)  
 ID de réunion : 983 6525 2204  
