@@ -3,7 +3,7 @@
 Nous mettons en place des cours en ligne pendant les périodes de confinement:
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=24px> Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
-[https://meet.google.com/kmt-kijh-bsw](https://meet.google.com/kmt-kijh-bsw)  
+Zoom 2371357023 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=24px> Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
 Zoom 2371357023  
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=24px> Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
