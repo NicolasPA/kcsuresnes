@@ -29,7 +29,7 @@ Code secret : 804745
 ID de réunion : 985 4214 0213  
 Code secret : 501587  
 - Mercredi 18h: cours combat, à partir de 7 ans  
-https://afnor.zoom.us/j/95078053084?pwd=ZCtsWjN6K1RUU1UrWktVS1hFbFE3QT09  
+[https://afnor.zoom.us/j/95078053084?pwd=ZCtsWjN6K1RUU1UrWktVS1hFbFE3QT09](https://afnor.zoom.us/j/95078053084?pwd=ZCtsWjN6K1RUU1UrWktVS1hFbFE3QT09)  
 ID de réunion : 950 7805 3084  
 Code secret : 510377  
 - Jeudi 20h30 : cours krav maga tous niveaux  
