@@ -12,7 +12,7 @@ Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_li
 
 Chaîne YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/videoseries?list=PLFyA7dBi1OKws7JmTz9X4ze8E7qkb-jib" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFyA7dBi1OKws7JmTz9X4ze8E7qkb-jib" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
