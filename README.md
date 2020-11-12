@@ -2,14 +2,18 @@
 
 Nous mettons en place des cours en ligne pendant les périodes de confinement:
 
+
+Zoom 2371357023 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=24px> Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
-Zoom 2371357023 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=24px> Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
-Zoom 2371357023  
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=24px> Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
-Zoom 2371357023 
+
 
 Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
+
+Chaîne YouTube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1gH8bwAaAqw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
