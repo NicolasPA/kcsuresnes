@@ -15,9 +15,8 @@ Ces lectures devraient vous faire progresser sur votre réponse à ces questions
 - Pourquoi pratique-on des exercices ritualisés tels que le kihon, le kata et le kihon ippon kumite?
 - Le karaté est-il efficace?
 
-Les listes sont à peu près ordonnées par difficulté croissante: les premiers sont accessibles au débutants et aux enfants,
+Les listes sont à peu près ordonnées par difficulté croissante: les premiers livres sont accessibles au débutants et aux enfants,
 les derniers sont plutôt adressés à des gradés et adultes.
-
 
 ## Histoire & compréhension
 
@@ -36,6 +35,7 @@ les derniers sont plutôt adressés à des gradés et adultes.
 - Karate Do Kyohan - Gichin Funakoshi - 2009 (fac-similé 1935): philosophie, techniques et katas, référence historique par le fondateur de notre style Shotokan
 
 ## Culture arts martiaux
+
 - arts de la guerre
 - traité des cinq roues
 - bobushi
