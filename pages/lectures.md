@@ -15,7 +15,7 @@ Ces lectures devraient vous faire progresser sur votre réponse à ces questions
 - Pourquoi pratique-t-on des exercices ritualisés tels que le kihon, le kata et le kihon ippon kumite?
 - Le karaté est-il efficace?
 
-Les listes sont à peu près ordonnées par difficulté croissante: les premiers livres sont accessibles au débutants et aux enfants,
+Les listes sont à peu près ordonnées par difficulté croissante: les premiers livres sont accessibles aux débutants et aux enfants,
 les derniers sont plutôt adressés à des gradés et adultes.
 
 ## Histoire & philosophie
@@ -38,7 +38,7 @@ Titre | Auteur | Description
 Le karaté (2005) | Pierre Blot | Techniques et katas de la ceinture blanche à la ceinture noire, par le fondateur du club, illustré avec les élèves du KC Suresnes!
 Katas supérieurs Shotokan-Ryu (2013) | Taiji Kase | Katas supérieurs illustrés par sensei Kase, sensei de Pierre Blot
 Bunkai : L'art de décoder les katas | Areski Ouzrout | Une démarche rigoureuse pour améliorer ses bunkai avec beaucoup d'exemples
-Karate do kyohan (2009, fac-similé 1935) | Gichin Funakoshi | Référence de cours historique par le fondateur de notre style shotokan
+Karate do kyohan (2009, fac-similé 1935) | Gichin Funakoshi | Référence de cours historique par le fondateur de notre style Shotokan
 
 ## Culture arts martiaux
 
