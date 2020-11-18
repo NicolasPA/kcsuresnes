@@ -20,27 +20,33 @@ les derniers sont plutôt adressés à des gradés et adultes.
 
 ## Histoire & philosophie
 
-|Titre | Auteur | Description
-|--- |--- |---
-|Karaté-do : ma voie, ma vie | Gichin Funakoshi| Autobiographie du fondateur de notre style Shotokan
-| Les 20 préceptes directeurs du karaté-dô | Gichin Funakoshi | Le fondement de la philosophie de notre karaté.
-| L'essence du karaté | Gichin Funakoshi | Histoire et philosophie du karaté.
-| Karate et kobudo à la source | Jean-Charles Juster | Histoire du karaté et du kobudo à Okinawa jusqu'à aujourd'hui 
-| Entretiens à Okinawa avec ses maîtres de karate de kobudô (I à V) | Jean-Charles Juster | Entretiens avec des maîtres actuels à Okinawa
-| Chronique martiales | Henri Plée | Recueil d'articles publiés dans des revues par le pionier du karaté en Europe
-| Les Katas | Kenji Tokitsu | Théorie et réflexion sur les katas
-| La Voie du karaté : pour une théorie des arts martiaux japonais | Kenji Tokitsu | Théorie et réflexion sur le karaté
+Titre | Auteur | Description
+--- |--- |---
+Karaté-do : ma voie, ma vie | Gichin Funakoshi| Autobiographie du fondateur de notre style Shotokan
+Les 20 préceptes directeurs du karaté-dô | Gichin Funakoshi | Le fondement de la philosophie de notre karaté
+L'essence du karaté | Gichin Funakoshi | Histoire et philosophie du karaté
+Karate et kobudo à la source | Jean-Charles Juster | Histoire du karaté et du kobudo à Okinawa jusqu'à aujourd'hui 
+Entretiens à Okinawa avec ses maîtres de karate de kobudô (I à V) | Jean-Charles Juster | Entretiens avec des maîtres actuels à Okinawa
+Chronique martiales | Henri Plée | Recueil d'articles publiés dans des revues par le pionier du karaté en Europe
+Les Katas | Kenji Tokitsu | Théorie et réflexion sur les katas
+La Voie du karaté : pour une théorie des arts martiaux japonais | Kenji Tokitsu | Théorie et réflexion sur le karaté
 
 ## Référence de cours pour notre école
 
-- Le Karaté - Pierre Blot - 2005: techniques et katas de la ceinture blanche à la ceinture noire, par le fondateur du club, illustré par les élèves du KC Suresnes.
-- Katas Supérieurs Shotokan-Ryu - Taiji Kase - 2013: les katas supérieurs illustrés par sensei Kase, sensei de Pierre Blot.
-- Bunkai
-- Karate Do Kyohan - Gichin Funakoshi - 2009 (fac-similé 1935): philosophie, techniques et katas, référence historique par le fondateur de notre style Shotokan
+Titre | Auteur | Description
+--- |--- |---
+Le karaté (2005) | Pierre Blot | Techniques et katas de la ceinture blanche à la ceinture noire, par le fondateur du club, illustré avec les élèves du KC Suresnes!
+Katas supérieurs Shotokan-Ryu (2013) | Taiji Kase | Katas supérieurs illustrés par sensei Kase, sensei de Pierre Blot
+Bunkai : L'art de décoder les katas | Areski Ouzrout | Une démarche rigoureuse pour améliorer ses bunkai avec beaucoup d'exemples
+Karate do kyohan (2009, fac-similé 1935) | Gichin Funakoshi | Référence de cours historique par le fondateur de notre style shotokan
 
 ## Culture générale arts martiaux
 
-- arts de la guerre
-- traité des cinq roues
-- bobushi
-- hagakure
+Titre | Auteur | Description
+--- |--- |---
+La pierre et le sabre + La parfaite lumière | Eiji Yoshikawa | Vie romancée du samouraï légendaire du XVIe siècle Miyamoto Musashi
+Bubishi : à la source du Karaté | Roland Habersetzer | Compilation de textes historiques sur les arts martiaux chinois entre le XVIIe et le XIXe siècle
+Le traité des cinq roues | Miyamoto Musashi | Stratégie et philosophie martiale par un samouraï légendaire du XVIe siècle
+Hagakure | Tsunetomo Yamamoto | Préceptes de la voie du samouraï au XVIIIe sicèle
+L'art de la guerre | Sun Tzu | Traité sur la stratégie martiale du VIe siècle av. J.-C
+
