@@ -18,14 +18,18 @@ Ces lectures devraient vous faire progresser sur votre réponse à ces questions
 Les listes sont à peu près ordonnées par difficulté croissante: les premiers livres sont accessibles au débutants et aux enfants,
 les derniers sont plutôt adressés à des gradés et adultes.
 
-## Histoire & compréhension
+## Histoire & philosophie
 
-- ma voie ma vie
-- 20 précepts
-- l'essence du karaté
-- Juster
-- Chronique martiales
-- Tokitsu
+|Titre | Auteur | Description
+|--- |--- |---
+|Karaté-do : ma voie, ma vie | Gichin Funakoshi| Autobiographie du fondateur de notre style Shotokan
+| Les 20 préceptes directeurs du karaté-dô | Gichin Funakoshi | Le fondement de la philosophie de notre karaté.
+| L'essence du karaté | Gichin Funakoshi | Histoire et philosophie du karaté.
+| Karate et kobudo à la source | Jean-Charles Juster | Histoire du karaté et du kobudo à Okinawa jusqu'à aujourd'hui 
+| Entretiens à Okinawa avec ses maîtres de karate de kobudô (I à V) | Jean-Charles Juster | Entretiens avec des maîtres actuels à Okinawa
+| Chronique martiales | Henri Plée | Recueil d'articles publiés dans des revues par le pionier du karaté en Europe
+| Les Katas | Kenji Tokitsu | Théorie et réflexion sur les katas
+| La Voie du karaté : pour une théorie des arts martiaux japonais | Kenji Tokitsu | Théorie et réflexion sur le karaté
 
 ## Référence de cours pour notre école
 
@@ -34,7 +38,7 @@ les derniers sont plutôt adressés à des gradés et adultes.
 - Bunkai
 - Karate Do Kyohan - Gichin Funakoshi - 2009 (fac-similé 1935): philosophie, techniques et katas, référence historique par le fondateur de notre style Shotokan
 
-## Culture arts martiaux
+## Culture générale arts martiaux
 
 - arts de la guerre
 - traité des cinq roues
