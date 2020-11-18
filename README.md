@@ -38,6 +38,9 @@ Gymnase Berty Albrecht
 - Enfants 9/12 ans 15h - 16h
 - Cours spécifiques 16h - 17h
 
+
+Recommandations de lecture: [Lectures](pages/lectures.md)
+
 ## Enseignants
 
 Professeur: Pascal Pinault, 5ème dan  
