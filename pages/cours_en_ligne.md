@@ -9,9 +9,9 @@ kcsuresnes@gmail.com
 
 Zoom 2371357023 
 
-- Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
-- Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
-- Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
+- Mardi 19h30-20h30: karaté tous niveaux, Nicolas Parot Alvarez  
+- Jeudi 19h30-20h30: karaté tous niveaux, Pascal Pinault  
+- Dimanche 10h30-12h: cardio-musculaire tous niveaux, Pascal Pinault  
 
 
 ## Gant d'or de Houilles
@@ -45,3 +45,15 @@ Code secret : 118380
 ID de réunion : 992 0610 2966  
 Code secret : 600187  
 
+
+## Vincennes Cercle Tissier, BRED, ASCAN
+
+Jean-Louis Morel  
+[jeanlouismorelkarate.com](http://jeanlouismorelkarate.com)
+
+- Lundi 19h30-20h30: cours karaté  
+https://us02web.zoom.us/j/84682818008?pwd=elBPb2pZQlVGczF2cFcwVW0vcCtiQT09  
+ID de réunion : 846 8281 8008  
+- Jeudi 19h30-20h30: cours karaté  
+https://us02web.zoom.us/j/88013234009?pwd=VmJ3TnNKRlk1UXZnaWJFbTRDVmNyZz09  
+ID de réunion : 880 1323 4009  
