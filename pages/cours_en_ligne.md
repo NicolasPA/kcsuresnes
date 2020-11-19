@@ -40,7 +40,7 @@ Code secret : 259463
 [https://afnor.zoom.us/j/97905527000?pwd=ZVlnTGQ2bFVDNm5IQ0lZSndEOFlDUT09](https://afnor.zoom.us/j/97905527000?pwd=ZVlnTGQ2bFVDNm5IQ0lZSndEOFlDUT09)  
 ID de réunion : 979 0552 7000  
 Code secret : 118380  
-- Vendredi 20h30 : cours karaté adultes tous niveaux 
+- Vendredi 20h30 : cours karaté adultes tous niveaux  
 [https://afnor.zoom.us/j/99206102966?pwd=dFpGS0ttTk1sZGI1RURBbWgvdnVVdz09](https://afnor.zoom.us/j/99206102966?pwd=dFpGS0ttTk1sZGI1RURBbWgvdnVVdz09)  
 ID de réunion : 992 0610 2966  
 Code secret : 600187  
