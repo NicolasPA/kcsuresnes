@@ -52,8 +52,8 @@ Jean-Louis Morel
 [jeanlouismorelkarate.com](http://jeanlouismorelkarate.com)
 
 - Lundi 19h30-20h30: cours karaté  
-https://us02web.zoom.us/j/84682818008?pwd=elBPb2pZQlVGczF2cFcwVW0vcCtiQT09  
+[https://us02web.zoom.us/j/84682818008?pwd=elBPb2pZQlVGczF2cFcwVW0vcCtiQT09](https://us02web.zoom.us/j/84682818008?pwd=elBPb2pZQlVGczF2cFcwVW0vcCtiQT09)  
 ID de réunion : 846 8281 8008  
 - Jeudi 19h30-20h30: cours karaté  
-https://us02web.zoom.us/j/88013234009?pwd=VmJ3TnNKRlk1UXZnaWJFbTRDVmNyZz09  
+[https://us02web.zoom.us/j/88013234009?pwd=VmJ3TnNKRlk1UXZnaWJFbTRDVmNyZz09](https://us02web.zoom.us/j/88013234009?pwd=VmJ3TnNKRlk1UXZnaWJFbTRDVmNyZz09)  
 ID de réunion : 880 1323 4009  
