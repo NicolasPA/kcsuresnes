@@ -3,11 +3,11 @@
 Nous mettons en place des cours en ligne pendant les périodes de confinement:
 
 Zoom 2371357023  
-:open_hands: Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
-:boy: Mercredi 17h30-18h15 enfants débutants 6/8 ans, Pascal Pinault  
-:girl: Mercredi 18h15-19h enfants 9/12 ans, Pascal Pinault  
-:punch: Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
-:v: Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=16px> Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f466.png" width=16px> Mercredi 17h30-18h15 enfants débutants 6/8 ans, Pascal Pinault  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f467.png" width=16px> Mercredi 18h15-19h enfants 9/12 ans, Pascal Pinault  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=16px> Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=16px> Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
 
 
 Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
