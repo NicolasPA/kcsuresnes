@@ -11,7 +11,7 @@ Zoom 2371357023
 
 
 Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
-
+ 
 Chaîne YouTube:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFyA7dBi1OKxRijOP8j6qMeFodn9YHJf-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
