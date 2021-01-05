@@ -1,18 +1,22 @@
+## 2021: Retour au gymnase pour les -18 ans!
+
+Les cours sont de nouveau autorisés pour les élèves de moins de 18 ans.
+
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f466.png" width=16px> Ados: Mercredi 18h15-19h15, Gymnase Henri Sellier  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f467.png" width=16px> 6/12 ans: Samedi 14h-15h, Gymnase Berty Albrecht
+
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Cours en ligne <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
 
-Nous mettons en place des cours en ligne pendant les périodes de confinement:
+Nous mettons en place des cours en ligne pour compenser les cours annulés pendant la pandémie.
 
 Zoom 2371357023  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=16px> Mardi 19h30-20h30, karaté tous niveaux, Nicolas Parot Alvarez  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f466.png" width=16px> Mercredi 17h30-18h15 enfants débutants 6/8 ans, Pascal Pinault  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f467.png" width=16px> Mercredi 18h15-19h enfants 9/12 ans, Pascal Pinault  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=16px> Jeudi 19h30-20h30, karaté tous niveaux, Pascal Pinault  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=16px> Dimanche 10h30-12h, cardio-musculaire tous niveaux, Pascal Pinault  
-
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=16px> Mardi 19h45-20h45, ados/adultes karaté tous niveaux, Nicolas Parot Alvarez  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=16px> Jeudi 19h45-20h45, ados/adultes karaté tous niveaux, Pascal Pinault  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=16px> Dimanche 10h30-12h, ados/adultes cardio-musculaire tous niveaux, Pascal Pinault  
 
 Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
 
-Chaîne YouTube:
+Chaîne YouTube pour retrouver nos cours et nos katas enregistrés:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFyA7dBi1OKxRijOP8j6qMeFodn9YHJf-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -24,7 +28,7 @@ Club de karaté do Shotokan
 - Self défense
 - Compétition combat et kata
 
-## Cours
+## Cours (hors pandémie mondiale)
 
 **Mercredi**  
 Gymnase Henri Sellier  
