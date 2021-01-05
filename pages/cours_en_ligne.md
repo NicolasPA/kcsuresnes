@@ -9,10 +9,8 @@ kcsuresnes@gmail.com
 
 Zoom 2371357023 
 
-- Mardi 19h30-20h30: karaté tous niveaux, Nicolas Parot Alvarez  
-- Mercredi 17h30-18h15: enfants débutants 6/8 ans, Pascal Pinault  
-- Mercredi 18h15-19h: enfants 9/12 ans, Pascal Pinault  
-- Jeudi 19h30-20h30: karaté tous niveaux, Pascal Pinault  
+- Mardi 19h45-20h45: karaté tous niveaux, Nicolas Parot Alvarez   
+- Jeudi 19h45-20h45: karaté tous niveaux, Pascal Pinault  
 - Dimanche 10h30-12h: cardio-musculaire tous niveaux, Pascal Pinault  
 
 
