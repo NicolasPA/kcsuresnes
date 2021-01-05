@@ -1,4 +1,4 @@
-## 2021: Retour au gymnase pour les -18 ans!
+## 2021 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width=24px> Retour au gymnase pour les -18 ans!
 
 Les cours sont de nouveau autorisés pour les élèves de moins de 18 ans.
 
