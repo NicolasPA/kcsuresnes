@@ -7,11 +7,7 @@ Liste de cours de karaté en ligne ouverts à tous les pratiquants.
 Pascal Pinault: 06 86 42 76 64  
 kcsuresnes@gmail.com
 
-Zoom 2371357023 
-
-- Mardi 19h45-20h45: karaté tous niveaux, Nicolas Parot Alvarez   
-- Jeudi 19h45-20h45: karaté tous niveaux, Pascal Pinault  
-- Dimanche 10h30-12h: cardio-musculaire tous niveaux, Pascal Pinault  
+Voir [page d'acceuil](https://kcsuresnes.fr) 
 
 
 ## Gant d'or de Houilles
