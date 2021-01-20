@@ -3,10 +3,10 @@
 Nous mettons en place des cours en ligne pour compenser les cours annulés pendant la pandémie.
 
 Zoom 2371357023  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=16px> Mardi 19h45-20h45, ados/adultes karaté tous niveaux, Nicolas Parot Alvarez  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=16px> Mardi 19h30-20h30, ados/adultes karaté tous niveaux, Nicolas Parot Alvarez  
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f466.png" width=16px> Mercredi 17h30-18h15 enfants débutants, Pascal Pinault  
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f467.png" width=16px> Mercredi 18h15-19h enfants gradés, Pascal Pinault  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=16px> Jeudi 19h45-20h45, ados/adultes karaté tous niveaux, Pascal Pinault  
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=16px> Jeudi 19h30-20h30, ados/adultes karaté tous niveaux, Pascal Pinault  
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=16px> Dimanche 10h30-12h, ados/adultes cardio-musculaire tous niveaux, Pascal Pinault  
 
 Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
