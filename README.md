@@ -21,7 +21,7 @@ Club de karaté do Shotokan
 - Self défense
 - Compétition combat et kata
 
-## Cours (hors pandémie mondiale)
+## Cours
 
 **Mercredi**  
 Gymnase Henri Sellier  
