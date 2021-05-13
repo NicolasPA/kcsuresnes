@@ -9,8 +9,6 @@ Zoom 2371357023
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=16px> Jeudi 19h30-20h30, ados/adultes karaté tous niveaux, Pascal Pinault  
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=16px> Dimanche 10h30-12h, ados/adultes cardio-musculaire tous niveaux, Pascal Pinault  
 
-Liste de cours en ligne internes et externes: [Cours en ligne](pages/cours_en_ligne.md).
-
 Chaîne YouTube pour retrouver nos cours et nos katas enregistrés:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFyA7dBi1OKxRijOP8j6qMeFodn9YHJf-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,16 +46,23 @@ Professeur: Pascal Pinault, 5ème dan
 Assistant: Nicolas Parot Alvarez, 4ème dan  
 Fondateur: Pierre Blot, 8ème Dan
 
-## Tarifs
+## Cotisation
 
-Les prix comprennent 37€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
+L'inscription pour la nouvelle saison a lieu à partir du Forum des Associations de Suresnes début septembre puis sur place.
+
+Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
+
+Le réglement peut se faire par chèque ou espèces et peut se faire en deux fois.
+
+_Un cours d'essai gratuit est possible._
 
 **Enfants**  
-280€  
-250€ pour le deuxième enfant de la même famille
+180€  
+150€ pour le deuxième enfant de la même famille
 
 **Ados/Adultes**  
-350€
+Plein tarif: 300€  
+Tarif étudiant: 250€ 
 
 ## Contact
 
