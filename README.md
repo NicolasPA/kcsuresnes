@@ -1,19 +1,5 @@
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Cours en ligne <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Reprise des cours en salle! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
 
-Nous mettons en place des cours en ligne pour compenser les cours annulés pendant la pandémie.
-
-Zoom 2371357023  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f450.png" width=16px> Mardi 19h30-20h30, ados/adultes karaté tous niveaux, Nicolas Parot Alvarez  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f466.png" width=16px> Mercredi 17h30-18h15 enfants débutants, Pascal Pinault  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f467.png" width=16px> Mercredi 18h15-19h enfants gradés, Pascal Pinault  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44a.png" width=16px> Jeudi 19h30-20h30, ados/adultes karaté tous niveaux, Pascal Pinault  
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/270c.png" width=16px> Dimanche 10h30-12h, ados/adultes cardio-musculaire tous niveaux, Pascal Pinault  
-
-Chaîne YouTube pour retrouver nos cours et nos katas enregistrés:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFyA7dBi1OKxRijOP8j6qMeFodn9YHJf-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr>
 
 Club de karaté do Shotokan
 - Enfants, ados et adultes
@@ -36,6 +22,10 @@ Gymnase Berty Albrecht
 - Enfants 6/8 ans 14h - 15h
 - Enfants 9/12 ans 15h - 16h
 - Cours spécifiques 16h - 17h
+
+Chaîne YouTube pour retrouver nos cours et nos katas enregistrés:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFyA7dBi1OKxRijOP8j6qMeFodn9YHJf-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Recommandations de lecture: [Lectures](pages/lectures.md)
