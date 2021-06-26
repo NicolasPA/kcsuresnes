@@ -62,8 +62,13 @@ Tarifs:
 Pascal Pinault: 06 86 42 76 64  
 kcsuresnes@gmail.com
 
+![Cours 2021](contact2021.png)
+
 ![Stage avec Pierre Blot](kcs_blot_390.jpeg)
 
+![Championats de France 2006](france2006.png )
+
 ![Stage avec Jean-Pierre Lavorato](kcs_lav.jpg)
+
 
 Site maintenu par [NicolasPA](https://github.com/NicolasPA/kcsuresnes).
