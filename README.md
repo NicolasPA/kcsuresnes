@@ -38,7 +38,7 @@ Fondateur: Pierre Blot, 8ème Dan
 
 ## Inscription
 
-Vous pouvez vous préinscrire grace à ce formulaire: https://forms.gle/excEunBTDi79i3kL8
+Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunBTDi79i3kL8). 
 
 Les inscriptions sont ouvertes à partir du forum des associations de Suresnes le 4 septembre 2021.  
 Une séance spéciale inscription aura lieu le samedi 11 septembre 2021 entre 14h et 15h, ensuite inscription sur le lieu des cours.  
@@ -46,7 +46,8 @@ Début des cours le mercredi 15 septembre 2021.
 
 Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
 
-Le réglement peut se faire par chèque ou espèces et peut se faire en deux fois.
+Le réglement peut se faire par chèque ou espèces et peut se faire en deux fois.  
+L'inscription est actée à la réception du règlement.
 
 _Un cours d'essai gratuit est possible._
 
