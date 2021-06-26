@@ -36,9 +36,13 @@ Professeur: Pascal Pinault, 5ème dan
 Assistant: Nicolas Parot Alvarez, 4ème dan  
 Fondateur: Pierre Blot, 8ème Dan
 
-## Cotisation
+## Inscription
 
-L'inscription pour la nouvelle saison a lieu à partir du Forum des Associations de Suresnes début septembre puis sur place.
+Vous pouvez vous préinscrire grace à ce formulaire: https://forms.gle/excEunBTDi79i3kL8
+
+Les inscriptions sont ouvertes à partir du forum des associations de Suresnes le 4 septembre 2021.  
+Une séance spéciale inscription aura lieu le samedi 11 septembre 2021 entre 14h et 15h, ensuite inscription sur le lieu des cours.  
+Début des cours le mercredi 15 septembre 2021.
 
 Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
 
@@ -46,13 +50,11 @@ Le réglement peut se faire par chèque ou espèces et peut se faire en deux foi
 
 _Un cours d'essai gratuit est possible._
 
-**Enfants**  
-180€  
-150€ pour le deuxième enfant de la même famille
-
-**Ados/Adultes**  
-Plein tarif: 300€  
-Tarif étudiant: 250€ 
+Tarifs:
+- Enfant (≤ 12 ans): 180 €
+- Deuxième enfant (≤ 12 ans) de la même famille: 150 €
+- Étudiant (≥ 13 ans): 250 €
+- Adulte: 300 €
 
 ## Contact
 
