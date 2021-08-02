@@ -57,6 +57,9 @@ Tarifs:
 - Étudiant (≥ 13 ans): 250 €
 - Adulte: 300 €
 
+Certificat médical:  
+Se référer à la circulaire 2021 de la fédération: https://sites.ffkarate.fr/hautsdeseine/wp-content/uploads/sites/57/2021/07/20210730_CIRCULAIRE-007-Certificat-medical-et-questionnaire-de-sante-.pdf
+
 ## Contact
 
 Pascal Pinault: 06 72 89 76 64  
