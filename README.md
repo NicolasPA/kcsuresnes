@@ -9,6 +9,8 @@ Club de karaté do Shotokan
 
 ## Cours
 
+Rentrée le mercredi 15 septembre 2021
+
 **Mercredi**  
 Gymnase Henri Sellier  
 6 Avenue Emmanuel Kant, 92150 Suresnes [![Gymnase Henri Sellier Map](https://i.imgur.com/pBrsGZj.png)](https://www.google.com/maps/place/6+Avenue+Emmanuel+Kant,+92150+Suresnes,+France/@48.8616052,2.201923,17z/data=!3m1!4b1!4m5!3m4!1s0x47e664b382440f93:0x23ba38be5b6ac41d!8m2!3d48.8616052!4d2.204117) 
@@ -41,7 +43,7 @@ Fondateur: Pierre Blot, 8ème Dan
 Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunBTDi79i3kL8). 
 
 Les inscriptions sont ouvertes à partir du forum des associations de Suresnes le 4 septembre 2021.  
-Une séance spéciale inscription aura lieu le samedi 11 septembre 2021 entre 14h et 15h, ensuite inscription sur le lieu des cours.  
+Une séance spéciale inscription aura lieu le samedi 11 septembre 2021 entre 14h et 15h30, ensuite inscription sur le lieu des cours.  
 Début des cours le mercredi 15 septembre 2021.
 
 Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
