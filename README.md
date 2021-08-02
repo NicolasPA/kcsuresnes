@@ -1,4 +1,4 @@
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Reprise des cours en salle! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Rentrée le mercredi 15 septembre 2021 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
 
 
 Club de karaté do Shotokan
@@ -59,7 +59,7 @@ Tarifs:
 
 ## Contact
 
-Pascal Pinault: 06 86 42 76 64  
+Pascal Pinault: 06 72 89 76 64  
 kcsuresnes@gmail.com
 
 ![Cours 2021](contact2021.png)
