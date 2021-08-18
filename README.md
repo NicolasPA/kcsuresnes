@@ -60,7 +60,7 @@ Tarifs:
 - Adulte: 300 €
 
 Certificat médical:  
-Se référer à la circulaire 2021 de la fédération: https://sites.ffkarate.fr/hautsdeseine/wp-content/uploads/sites/57/2021/07/20210730_CIRCULAIRE-007-Certificat-medical-et-questionnaire-de-sante-.pdf
+Se référer à la circulaire 2021 de la fédération: [20210730_CIRCULAIRE-007-Certificat-medical-et-questionnaire-de-sante-.pdf](https://sites.ffkarate.fr/hautsdeseine/wp-content/uploads/sites/57/2021/07/20210730_CIRCULAIRE-007-Certificat-medical-et-questionnaire-de-sante-.pdf)
 
 ## Contact
 
