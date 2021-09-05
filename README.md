@@ -42,8 +42,7 @@ Fondateur: Pierre Blot, 8ème Dan
 
 Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunBTDi79i3kL8). 
 
-Les inscriptions sont ouvertes à partir du forum des associations de Suresnes le 4 septembre 2021.  
-Une séance spéciale inscription aura lieu le samedi 11 septembre 2021 entre 14h et 15h30 au gymnase Berty Albrecht, ensuite inscription sur le lieu des cours.  
+Le réglement se fait sur le lieu des cours.  
 Début des cours le mercredi 15 septembre 2021.
 
 Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
