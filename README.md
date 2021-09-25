@@ -7,6 +7,8 @@ Club de karaté do Shotokan
 - Self défense
 - Compétition combat et kata
 
+![Cours 20210925](cours20210925.png)
+
 ## Cours
 
 Rentrée le mercredi 15 septembre 2021
