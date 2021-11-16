@@ -1,4 +1,4 @@
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px> Rentrée le mercredi 15 septembre 2021 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
 
 
 Club de karaté do Shotokan
@@ -10,8 +10,6 @@ Club de karaté do Shotokan
 ![Cours 20210925](cours20210925.png)
 
 ## Cours
-
-Rentrée le mercredi 15 septembre 2021
 
 **Mercredi**  
 Gymnase Henri Sellier  
@@ -26,6 +24,8 @@ Gymnase Berty Albrecht
 - Enfants 6/8 ans 14h - 15h
 - Enfants 9/12 ans 15h - 16h
 - Cours spécifiques 16h - 17h
+
+Vacances: en général, les cours n'ont pas lieu pendant les vacances scolaires, sauf le premier samedi des vacances.
 
 Chaîne YouTube pour retrouver nos cours et nos katas enregistrés:
 
@@ -45,12 +45,11 @@ Fondateur: Pierre Blot, 8ème Dan
 Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunBTDi79i3kL8). 
 
 Le réglement se fait sur le lieu des cours.  
-Début des cours le mercredi 15 septembre 2021.
+L'inscription est actée à la réception du règlement.
 
 Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
 
 Le réglement peut se faire par chèque ou espèces et peut se faire en deux fois.  
-L'inscription est actée à la réception du règlement.
 
 _Un cours d'essai gratuit est possible._
 
