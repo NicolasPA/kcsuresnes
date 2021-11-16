@@ -1,6 +1,6 @@
- <link rel="shortcut icon" type="image/x-icon" href="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png">
+ <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
+<img src="karategi.png" width=24px>
 
 
 Club de karaté do Shotokan
