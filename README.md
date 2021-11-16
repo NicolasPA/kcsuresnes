@@ -1,3 +1,5 @@
+ <link rel="shortcut icon" type="image/x-icon" href="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png">
+
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f94b.png" width=24px>
 
 
