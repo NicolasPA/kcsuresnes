@@ -1,6 +1,6 @@
  <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-<img src="karategi.png" width=24px>
+# <img src="karategi.png" width=24px> Toute l'équipe du karaté club suresnois vous présente ses meilleurs vœux pour 2022!
 
 
 Club de karaté do Shotokan
