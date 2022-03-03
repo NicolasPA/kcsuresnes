@@ -1,6 +1,6 @@
  <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-# <img src="karategi.png" width=24px> Toute l'équipe du karaté club suresnois vous présente ses meilleurs vœux pour 2022!
+# <img src="karategi.png" width=24px> Déménagement dans le nouveau gymnase Arnaud Beltrame dès le 12 mars!
 
 
 Club de karaté do Shotokan
@@ -13,15 +13,14 @@ Club de karaté do Shotokan
 
 ## Cours
 
+Gymnase Arnaud Beltrame  
+Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.com/pBrsGZj.png)](https://goo.gl/maps/riT4vF77S8k5KmtJA) 
+
 **Mercredi**  
-Gymnase Henri Sellier  
-6 Avenue Emmanuel Kant, 92150 Suresnes [![Gymnase Henri Sellier Map](https://i.imgur.com/pBrsGZj.png)](https://www.google.com/maps/place/6+Avenue+Emmanuel+Kant,+92150+Suresnes,+France/@48.8616052,2.201923,17z/data=!3m1!4b1!4m5!3m4!1s0x47e664b382440f93:0x23ba38be5b6ac41d!8m2!3d48.8616052!4d2.204117) 
 - Ados 18h15 - 19h15
 - Adultes 19h30 - 21h
 
 **Samedi**  
-Gymnase Berty Albrecht  
-90 Rue Carnot, 92150 Suresnes [![Gymnase Berty Albrecht Map](https://i.imgur.com/pBrsGZj.png)](https://www.google.com/maps/place/Gymnase+Berty+Albrecht/@48.8757195,2.2266556,17z/data=!3m1!4b1!4m5!3m4!1s0x47e664de8f643413:0x1a63ff651aae9916!8m2!3d48.8757195!4d2.2288443?hl=en) 
 - Ados/Adultes 10h30 - 12h
 - Enfants 6/8 ans 14h - 15h
 - Enfants 9/12 ans 15h - 16h
