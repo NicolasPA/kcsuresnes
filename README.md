@@ -37,9 +37,9 @@ Recommandations de lecture: [Lectures](pages/lectures.md)
 
 ## Enseignants
 
-Professeur: Pascal Pinault, 5ème dan  
-Assistant: Nicolas Parot Alvarez, 4ème dan  
-Fondateur: Pierre Blot, 8ème Dan
+Professeur: Pascal Pinault, 5ᵉ dan
+Assistant: Nicolas Parot Alvarez, 4ᵉ dan
+Fondateur: Pierre Blot, 8ᵉ Dan
 
 ## Inscription
 
