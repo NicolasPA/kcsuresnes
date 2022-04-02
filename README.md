@@ -18,7 +18,7 @@ Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.c
 
 **Mercredi**  
 - Ados 18h15 - 19h15
-- Adultes 19h30 - 21h
+- Adultes 19h30 - 20h45
 
 **Samedi**  
 - Ados/Adultes 10h30 - 12h
@@ -67,6 +67,8 @@ Se référer à la circulaire 2021 de la fédération: [20210730_CIRCULAIRE-007-
 
 Pascal Pinault: 06 72 89 76 64  
 kcsuresnes@gmail.com
+
+![Cours enfants à la barre 2022](https://user-images.githubusercontent.com/22459427/161398694-0a2bbf2c-1b3e-427f-9642-f91871de1fef.png)
 
 ![Cours 2021](contact2021.png)
 
