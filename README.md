@@ -1,6 +1,6 @@
  <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-# <img src="karategi.png" width=24px> Déménagement dans le nouveau gymnase Arnaud Beltrame dès le 12 mars!
+# <img src="karategi.png" width=24px> Déménagement dans le tout nouveau gymnase Arnaud Beltrame depuis le 12 mars!
 
 
 Club de karaté do Shotokan
