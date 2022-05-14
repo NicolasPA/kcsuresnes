@@ -48,7 +48,7 @@ Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunB
 Le réglement se fait sur le lieu des cours.  
 L'inscription est actée à la réception du règlement.
 
-Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclue une assurance en responsabilité civile et accidents corporels.  
+Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclut une assurance en responsabilité civile et accidents corporels.  
 
 Le réglement peut se faire par chèque ou espèces et peut se faire en deux fois.  
 
