@@ -1,7 +1,8 @@
  <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-# <img src="karategi.png" width=24px> Déménagement dans le tout nouveau gymnase Arnaud Beltrame depuis le 12 mars!
+# <img src="karategi.png" width=24px> Dernier cours de la saison le samedi 2 juillet, stage du 18 au 21 juillet
 
+<img src="https://user-images.githubusercontent.com/22459427/173432895-8c4102a6-fb3a-434e-aebb-c11c47bde0fe.png" width=400px><img src="https://user-images.githubusercontent.com/22459427/173432863-049315d0-6544-485d-a88a-cb08db6123fc.png" width=400px>
 
 Club de karaté do Shotokan
 - Enfants, ados et adultes
