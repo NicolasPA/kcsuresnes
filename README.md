@@ -69,6 +69,8 @@ Se référer à la circulaire 2021 de la fédération: [20210730_CIRCULAIRE-007-
 Pascal Pinault: 06 72 89 76 64  
 kcsuresnes@gmail.com
 
+<img src="https://user-images.githubusercontent.com/22459427/175784708-07ebf307-e8a2-48e1-aa83-140ce462b426.png" width=390px>
+
 ![Cours enfants à la barre 2022](https://user-images.githubusercontent.com/22459427/161398694-0a2bbf2c-1b3e-427f-9642-f91871de1fef.png)
 
 ![Cours 2021](contact2021.png)
