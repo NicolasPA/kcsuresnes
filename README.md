@@ -1,6 +1,6 @@
  <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-# <img src="karategi.png" width=24px> Dernier cours de la saison le samedi 2 juillet, stage du 18 au 21 juillet
+# <img src="karategi.png" width=24px> Dernier cours de la saison le samedi 2 juillet, stage du 18 au 21 juillet, reprise mercredi 14 septembre 2022
 
 <img src="https://user-images.githubusercontent.com/22459427/173432895-8c4102a6-fb3a-434e-aebb-c11c47bde0fe.png" width=400px><img src="https://user-images.githubusercontent.com/22459427/173432863-049315d0-6544-485d-a88a-cb08db6123fc.png" width=400px>
 
@@ -14,8 +14,10 @@ Club de karaté do Shotokan
 
 ## Cours
 
-Gymnase Arnaud Beltrame  
+Gymnase Arnaud Beltrame (tout neuf)  
 Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.com/pBrsGZj.png)](https://goo.gl/maps/riT4vF77S8k5KmtJA) 
+
+Début de la saison 2022-2023 le mercredi 14 septembre 2022.
 
 **Mercredi**  
 - Ados 18h15 - 19h15
@@ -27,14 +29,13 @@ Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.c
 - Enfants 9/12 ans 15h - 16h
 - Cours spécifiques 16h - 17h
 
-Vacances: en général, les cours n'ont pas lieu pendant les vacances scolaires, sauf le premier samedi des vacances.
+**Vacances:** en général, les cours n'ont pas lieu pendant les vacances scolaires, sauf le premier samedi des vacances.
+
+Recommandations de lecture: [Lectures](pages/lectures.md)
 
 Chaîne YouTube pour retrouver nos cours et nos katas enregistrés:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFyA7dBi1OKxRijOP8j6qMeFodn9YHJf-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Recommandations de lecture: [Lectures](pages/lectures.md)
 
 ## Enseignants
 
@@ -68,6 +69,9 @@ Se référer à la circulaire 2021 de la fédération: [20210730_CIRCULAIRE-007-
 
 Pascal Pinault: 06 72 89 76 64  
 kcsuresnes@gmail.com
+
+
+<img src="https://user-images.githubusercontent.com/22459427/175944529-c6dd11a0-d2ec-4cad-ada6-42e2a88c8b60.png" width=390px>
 
 <img src="https://user-images.githubusercontent.com/22459427/175784708-07ebf307-e8a2-48e1-aa83-140ce462b426.png" width=390px>
 
