@@ -1,6 +1,6 @@
  <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-# <img src="karategi.png" width=24px> Dernier cours de la saison le samedi 2 juillet, stage du 18 au 21 juillet, reprise mercredi 14 septembre 2022
+# <img src="karategi.png" width=24px> Stage du 18 au 21 juillet, reprise mercredi 14 septembre 2022
 
 <img src="https://user-images.githubusercontent.com/22459427/173432895-8c4102a6-fb3a-434e-aebb-c11c47bde0fe.png" width=400px><img src="https://user-images.githubusercontent.com/22459427/173432863-049315d0-6544-485d-a88a-cb08db6123fc.png" width=400px>
 
@@ -20,14 +20,14 @@ Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.c
 Début de la saison 2022-2023 le mercredi 14 septembre 2022.
 
 **Mercredi**  
-- Ados 18h15 - 19h15
-- Adultes 19h30 - 20h45
+- Ados >= 11 ans: 18h15 - 19h15
+- Adultes: 19h30 - 20h45
 
 **Samedi**  
-- Ados/Adultes 10h30 - 12h
-- Enfants 6/8 ans 14h - 15h
-- Enfants 9/12 ans 15h - 16h
-- Cours spécifiques 16h - 17h
+- Ados/Adultes: 10h30 - 12h
+- Enfants 6/8 ans: 14h - 15h
+- Enfants 9/12 ans: 15h - 16h
+- Cours spécifiques: 16h - 17h
 
 **Vacances:** en général, les cours n'ont pas lieu pendant les vacances scolaires, sauf le premier samedi des vacances.
 
@@ -45,6 +45,8 @@ Fondateur: Pierre Blot, 8ᵉ Dan
 
 ## Inscription
 
+Les enfants de 5 ans atteignant 6 ans entre septembre et décembre peuvent être inscrits pour les cours 6/8 ans.
+
 Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunBTDi79i3kL8). 
 
 Le réglement se fait sur le lieu des cours.  
@@ -52,7 +54,7 @@ L'inscription est actée à la réception du règlement.
 
 Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclut une assurance en responsabilité civile et accidents corporels.  
 
-Le réglement peut se faire par chèque ou espèces et peut se faire en deux fois.  
+Le réglement peut se faire par chèque ou espèces pendant les cours et peut se faire en deux fois.  
 
 _Un cours d'essai gratuit est possible._
 
