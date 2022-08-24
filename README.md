@@ -1,8 +1,6 @@
  <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-# <img src="karategi.png" width=24px> Stage du 18 au 21 juillet, reprise mercredi 14 septembre 2022
-
-<img src="https://user-images.githubusercontent.com/22459427/173432895-8c4102a6-fb3a-434e-aebb-c11c47bde0fe.png" width=400px><img src="https://user-images.githubusercontent.com/22459427/173432863-049315d0-6544-485d-a88a-cb08db6123fc.png" width=400px>
+# <img src="karategi.png" width=24px> Reprise mercredi 14 septembre 2022 !
 
 Club de karaté do Shotokan
 - Enfants, ados et adultes
