@@ -6,7 +6,7 @@ Rencontrez-nous au Forum des Associations de Suresnes samedi 3 septembre :
 - stand 91
 - initiation 11h40 – 12h
 
-https://www.suresnes.fr/forum-des-associations-2022/
+[https://www.suresnes.fr/forum-des-associations-2022/](https://www.suresnes.fr/forum-des-associations-2022/)
 
 ---
 
