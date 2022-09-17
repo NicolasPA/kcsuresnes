@@ -23,8 +23,8 @@ Début de la saison 2022-2023 le mercredi 14 septembre 2022.
 
 **Samedi**  
 - Ados/Adultes: 10h30 - 12h
-- Enfants 6/8 ans: 14h - 15h
-- Enfants 9/12 ans: 15h - 16h
+- Enfants 6/9 ans: 14h - 15h
+- Enfants 10/12 ans: 15h - 16h
 - Cours spécifiques: 16h - 17h
 
 **Vacances:** en général, les cours n'ont pas lieu pendant les vacances scolaires, sauf le premier samedi des vacances.
