@@ -48,7 +48,7 @@ Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunB
 Le réglement se fait sur le lieu des cours.  
 L'inscription est actée à la réception du règlement.
 
-Les prix comprennent 38€ de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclut une assurance en responsabilité civile et accidents corporels.  
+Les prix comprennent 37 € de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclut une assurance en responsabilité civile et accidents corporels.  
 
 Le réglement peut se faire par chèque ou espèces pendant les cours et peut se faire en deux fois.  
 
@@ -60,7 +60,7 @@ _Un cours d'essai gratuit est possible._
 - Étudiant (≥ 13 ans): 250 €
 - Adulte: 300 €
 
-**Certificat médical**: https://www.ffkarate.fr/espace-licencies/certificat-medical/
+**Certificat médical** ([https://www.ffkarate.fr/espace-licencies/certificat-medical/](https://www.ffkarate.fr/espace-licencies/certificat-medical/))
 - pratiquants majeurs: (Circulaire du 12 septembre 2022) il n'y a plus de certificat nécessaire pour les majeurs. En cas de doute, nous vous conseillons tout de même de demander à votre médecin un certificat médical d’absence de contre-indication à la pratique du karaté.
 - pratiquants mineurs: (Circulaire du 27 juillet 2021) l'enfant et son parent doivent conjointement remplir le questionnaire de santé (Annexe N°1), ce questionnaire ne doit pas être partagé avec le club.
   - Si toutes les réponses sont négatives, merci de nous fournir **uniquement l'attestation** (Annexe N°2) liée au questionnaire.
