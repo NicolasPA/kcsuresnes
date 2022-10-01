@@ -1,7 +1,5 @@
  <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-# <img src="karategi.png" width=24px> Reprise mercredi 14 septembre 2022 !
-
 Club de karaté do Shotokan
 - Enfants, ados et adultes
 - Karaté traditionnel
@@ -56,14 +54,18 @@ Le réglement peut se faire par chèque ou espèces pendant les cours et peut se
 
 _Un cours d'essai gratuit est possible._
 
-Tarifs:
+**Tarifs**:
 - Enfant (≤ 12 ans): 180 €
 - Deuxième enfant (≤ 12 ans) de la même famille: 150 €
 - Étudiant (≥ 13 ans): 250 €
 - Adulte: 300 €
 
-Certificat médical:  
-Se référer à la circulaire 2021 de la fédération: [20210730_CIRCULAIRE-007-Certificat-medical-et-questionnaire-de-sante-.pdf](https://sites.ffkarate.fr/hautsdeseine/wp-content/uploads/sites/57/2021/07/20210730_CIRCULAIRE-007-Certificat-medical-et-questionnaire-de-sante-.pdf)
+**Certificat médical**: https://www.ffkarate.fr/espace-licencies/certificat-medical/
+- pratiquants majeurs: (Circulaire du 12 septembre 2022) il n'y a plus de certificat nécessaire pour les majeurs. En cas de doute, nous vous conseillons tout de même de demander à votre médecin un certificat médical d’absence de contre-indication à la pratique du karaté.
+- pratiquants mineurs: (Circulaire du 27 juillet 2021) l'enfant et son parent doivent conjointement remplir le questionnaire de santé (Annexe N°1), ce questionnaire ne doit pas être partagé avec le club.
+  - Si toutes les réponses sont négatives, merci de nous fournir **uniquement l'attestation** (Annexe N°2) liée au questionnaire.
+  - Si une ou plusieurs questions du questionnaire donnent lieu à une réponse positive, alors la production d’un certificat médical d’absence de contre-indication à la pratique du karaté est obligatoire et uniquement dans ce cas-là.
+
 
 ## Contact
 
