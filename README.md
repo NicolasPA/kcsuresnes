@@ -29,6 +29,8 @@ Début de la saison 2022-2023 le mercredi 14 septembre 2022.
 
 Recommandations de lecture: [Lectures](pages/lectures.md)
 
+Recommandations d'équipement: [Équipements](pages/equipements.md)
+
 Chaîne YouTube pour retrouver nos cours et nos katas enregistrés:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFyA7dBi1OKxRijOP8j6qMeFodn9YHJf-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
