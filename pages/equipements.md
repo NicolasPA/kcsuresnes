@@ -59,6 +59,3 @@ Priorité d’achat proposée:
 	- Circonstances:
 		- Optionnel en compétition FFK, obligatoire en WKF.
 		- Sécurité supplémentaire pour le combat en général, en particulier pour la protection des côtes contre les coups de pieds circulaires.
-	- Conseil d’achat:
-		- Marques homologuées.
-
