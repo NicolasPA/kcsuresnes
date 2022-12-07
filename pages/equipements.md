@@ -21,7 +21,7 @@ Priorité d’achat proposée:
 		- En général, prendre des gants homologués compétition de karaté FFK (France) ou WKF (monde). Marques homologuées et communes en France: Budofight, Shureido, Nori, Adidas.
 		- À partir de la ceinture noire, des gants coupés type ju-jitsu ou MMA peuvent être utilisés pour pratiquer les attaques main ouverte et les saisies sans être gêné par la forme des gants homologués pour le kumité à points, au prix d’une moindre sécurité.
 2. \* **Protèges-tibia**  
-   <img src="https://user-images.githubusercontent.com/22459427/206317218-12f57264-4f23-4464-a3cf-b6b6ef089e26.png" width=100px>
+   <img src="https://user-images.githubusercontent.com/22459427/206319911-fca80302-4695-4283-84a4-93680412d7e8.png" width=100px>
 	- Circonstances:
 		- Blocages dur sur jambe.
 		- Coups de pieds dans les jambes.
