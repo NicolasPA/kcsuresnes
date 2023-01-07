@@ -8,7 +8,7 @@ Club de karaté do Shotokan
 
 ![Cours 20210925](cours20210925.png)
 
-<iframe title="Vidéo de présentation du Karaté Club de Suresnes" width="500" height="281" src="https://www.youtube.com/embed/JkPePQfU3Ik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Vidéo de présentation du Karaté Club de Suresnes" width="450" height="253" src="https://www.youtube.com/embed/JkPePQfU3Ik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Cours
 
