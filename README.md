@@ -46,12 +46,12 @@ Les enfants de 5 ans atteignant 6 ans entre septembre et décembre peuvent être
 Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunBTDi79i3kL8).  
 La préinscription pour la saison suivante est ouverte à partir du 1er juillet.
 
-Le réglement se fait sur le lieu des cours.  
 L'inscription est actée à la réception du règlement.  
+Le règlement se fait à partir du forum des associations de Suresnes, puis sur le lieu des cours.  
 
 Les prix comprennent 37 € de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclut une assurance en responsabilité civile et accidents corporels.  
 
-Le réglement peut se faire par chèque ou espèces, à partir du forum des associations, puis pendant les cours et peut se faire en deux fois.  
+Le réglement peut se faire par chèque ou espèces et peut se faire en deux fois.  
 
 _Un cours d'essai gratuit est possible._
 
@@ -63,7 +63,7 @@ _Un cours d'essai gratuit est possible._
 
 **Certificat médical** ([https://www.ffkarate.fr/espace-licencies/certificat-medical/](https://www.ffkarate.fr/espace-licencies/certificat-medical/))
 - pratiquants majeurs: (Circulaire du 12 septembre 2022) il n'y a plus de certificat nécessaire pour les majeurs. En cas de doute, nous vous conseillons tout de même de demander à votre médecin un certificat médical d’absence de contre-indication à la pratique du karaté.
-- pratiquants mineurs: (Circulaire du 27 juillet 2021) l'enfant et son parent doivent conjointement remplir le questionnaire de santé (Annexe N°1), ce questionnaire ne doit pas être partagé avec le club.
+- pratiquants mineurs: (Circulaire du 27 juillet 2021) l'enfant et son parent doivent conjointement remplir le questionnaire confidentiel de santé (Annexe N°1), **ce questionnaire ne doit pas être partagé avec le club**.
   - Si toutes les réponses sont négatives, merci de nous fournir **uniquement l'attestation** (Annexe N°2) liée au questionnaire.
   - Si une ou plusieurs questions du questionnaire donnent lieu à une réponse positive, alors la production d’un certificat médical d’absence de contre-indication à la pratique du karaté est obligatoire et uniquement dans ce cas-là.
 
