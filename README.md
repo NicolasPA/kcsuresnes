@@ -47,7 +47,7 @@ Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunB
 La préinscription pour la saison suivante est ouverte à partir du 1er juillet.
 
 L'inscription est actée à la réception du règlement.  
-Le règlement se fait à partir du forum des associations de Suresnes, puis sur le lieu des cours.  
+Le règlement peut se faire à partir du forum des associations de Suresnes, le premier samedi suivant la rentrée scolaire, puis sur le lieu des cours.  
 
 Les prix comprennent 37 € de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclut une assurance en responsabilité civile et accidents corporels.  
 
