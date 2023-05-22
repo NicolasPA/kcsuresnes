@@ -43,14 +43,15 @@ Fondateur: Pierre Blot, 8ᵉ Dan
 
 Les enfants de 5 ans atteignant 6 ans entre septembre et décembre peuvent être inscrits pour les cours 6/8 ans.
 
-Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunBTDi79i3kL8). 
+Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunBTDi79i3kL8).  
+La préinscription pour la saison suivante est ouverte à partir du 1er juillet.
 
 Le réglement se fait sur le lieu des cours.  
-L'inscription est actée à la réception du règlement.
+L'inscription est actée à la réception du règlement.  
 
 Les prix comprennent 37 € de [licence](https://www.ffkarate.fr/espace-licencies/la-licence-federale/) de la Fédération Française de Karaté qui inclut une assurance en responsabilité civile et accidents corporels.  
 
-Le réglement peut se faire par chèque ou espèces pendant les cours et peut se faire en deux fois.  
+Le réglement peut se faire par chèque ou espèces, à partir du forum des associations, puis pendant les cours et peut se faire en deux fois.  
 
 _Un cours d'essai gratuit est possible._
 
