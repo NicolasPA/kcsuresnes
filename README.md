@@ -88,5 +88,6 @@ kcsuresnes@gmail.com
 
 ![Stage avec Jean-Pierre Lavorato](kcs_lav.jpg)
 
+<img src="https://github.com/NicolasPA/kcsuresnes/raw/master/blot3.jpg" width=390px>
 
 Site maintenu par [NicolasPA](https://github.com/NicolasPA/kcsuresnes).
