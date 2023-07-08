@@ -1,4 +1,14 @@
- <link rel="shortcut icon" type="image/png" href="karategi.png">
+<link rel="shortcut icon" type="image/png" href="karategi.png">
+
+
+
+>![](karategi.png) Rentrée 2023-2024 ![](karategi.png)
+>
+>- Venez nous rencontrer au forum des associations de Suresnes le samedi 9 septembre !
+>- Début de la saison 2023-2024 le mercredi 13 septembre pour les ados et adultes.
+>- Session information/inscription/paiement le samedi 16 septembre de 14h à 14h30.
+>- Premier cours enfants samedi 16 septembre 14h30-15h30 pour les 6/9 et 15h30-16h30 pour les 10/12.
+
 
 Club de karaté do Shotokan
 - Enfants, ados et adultes
@@ -15,7 +25,7 @@ Club de karaté do Shotokan
 Gymnase Arnaud Beltrame (tout neuf)  
 Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.com/pBrsGZj.png)](https://goo.gl/maps/riT4vF77S8k5KmtJA) 
 
-Début de la saison 2022-2023 le mercredi 14 septembre 2022.
+Début de la saison 2023-2024 le mercredi 13 septembre 2023.
 
 **Mercredi**  
 - Ados >= 11 ans: 18h15 - 19h15
