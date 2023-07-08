@@ -2,7 +2,7 @@
 
 
 
->![](karategi.png) Rentrée 2023-2024 ![](karategi.png)
+><img src="https://kcsuresnes.fr/karategi.png" width=30px> Rentrée 2023-2024 <img src="https://kcsuresnes.fr/karategi.png" width=30px> 
 >
 >- Venez nous rencontrer au forum des associations de Suresnes le samedi 9 septembre !
 >- Début de la saison 2023-2024 le mercredi 13 septembre pour les ados et adultes.
