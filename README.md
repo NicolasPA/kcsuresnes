@@ -1,7 +1,5 @@
 <link rel="shortcut icon" type="image/png" href="karategi.png">
 
-
-
 ><img src="https://kcsuresnes.fr/karategi.png" width=30px> Rentrée 2023-2024 <img src="https://kcsuresnes.fr/karategi.png" width=30px> 
 >
 >- Venez nous rencontrer au forum des associations de Suresnes le samedi 9 septembre !
@@ -9,14 +7,13 @@
 >- Session information/inscription/paiement le samedi 16 septembre de 14h à 14h30.
 >- Premier cours enfants samedi 16 septembre 14h30-15h30 pour les 6/9 et 15h30-16h30 pour les 10/12.
 
-
 Club de karaté do Shotokan
 - Enfants, ados et adultes
 - Karaté traditionnel
 - Self défense
 - Compétition combat et kata
 
-![Cours 20210925](cours20210925.png)
+![image](https://github.com/NicolasPA/kcsuresnes/assets/22459427/d085be91-ca19-45e2-bfc5-dc7b4c310bc6)
 
 <iframe title="Vidéo de présentation du Karaté Club de Suresnes" width="500" height="281" src="https://www.youtube.com/embed/JkPePQfU3Ik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -82,7 +79,6 @@ _Un cours d'essai gratuit est possible._
 
 Pascal Pinault: 06 72 89 76 64  
 kcsuresnes@gmail.com
-
 
 <img src="https://user-images.githubusercontent.com/22459427/175944529-c6dd11a0-d2ec-4cad-ada6-42e2a88c8b60.png" width=390px>
 
