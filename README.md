@@ -39,7 +39,7 @@ Fondateur: Pierre Blot (8ᵉ Dan)
 
 ## Inscription
 
-Les enfants de 5 ans atteignant 6 ans entre septembre et décembre peuvent être inscrits pour les cours 6/8 ans.
+Les enfants de 5 ans atteignant 6 ans entre septembre et décembre peuvent être inscrits pour les cours 6/9 ans.
 
 Vous pouvez vous préinscrire grace à ce [formulaire](https://forms.gle/excEunBTDi79i3kL8).  
 La préinscription pour la saison suivante est ouverte à partir du 1er juillet.
