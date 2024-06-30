@@ -22,8 +22,6 @@ Club de karaté do Shotokan
 Gymnase Arnaud Beltrame (tout neuf)  
 Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.com/pBrsGZj.png)](https://goo.gl/maps/riT4vF77S8k5KmtJA) 
 
-Début de la saison 2023-2024 le mercredi 13 septembre 2023.
-
 **Mercredi**  
 - Ados >= 11 ans: 18h15 - 19h15
 - Adultes: 19h30 - 20h45
