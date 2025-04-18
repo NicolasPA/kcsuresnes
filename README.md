@@ -33,7 +33,7 @@ Recommandations d'équipement: [Équipements](pages/equipements.md)
 
 ## Enseignants
 
-Professeur: Pascal Pinault (5ᵉ dan)  
+Professeur: Pascal Pinault (6ᵉ dan)  
 Assistants: Cédric Julien (2ᵉ dan), Samir Boukhari (2ᵉ dan)  
 Fondateur: Pierre Blot (8ᵉ Dan)
 
