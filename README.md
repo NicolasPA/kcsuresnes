@@ -70,8 +70,8 @@ _Un cours d'essai gratuit est possible._
 
 **Certificat médical** ([https://www.ffkarate.fr/espace-licencies/certificat-medical/](https://www.ffkarate.fr/espace-licencies/certificat-medical/))
 - pratiquants majeurs: (Circulaire du 12 septembre 2022) il n'y a plus de certificat nécessaire pour les majeurs. En cas de doute, nous vous conseillons tout de même de demander à votre médecin un certificat médical d’absence de contre-indication à la pratique du karaté.
-- pratiquants mineurs: (Circulaire du 27 juillet 2021) l'enfant et son parent doivent conjointement remplir le questionnaire confidentiel de santé (Annexe N°1), **ce questionnaire ne doit pas être partagé avec le club**.
-  - Si toutes les réponses sont négatives, merci de nous fournir **uniquement l'attestation** (Annexe N°2) liée au questionnaire.
+- pratiquants mineurs: (Circulaire du 27 juillet 2021) l'enfant et son parent doivent conjointement remplir le "Questionnaire à destination des licenciés mineurs" (Annexe N⁰1), **ce questionnaire ne doit pas être partagé avec le club**.
+  - Si toutes les réponses sont négatives, merci de nous fournir **uniquement** l'"Attestation sur l'honneur - sportif mineur" (Annexe N°2) liée au questionnaire.
   - Si une ou plusieurs questions du questionnaire donnent lieu à une réponse positive, alors la production d’un certificat médical d’absence de contre-indication à la pratique du karaté est obligatoire et uniquement dans ce cas-là.
 
 
