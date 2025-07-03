@@ -2,6 +2,7 @@
 
 ><img src="https://kcsuresnes.fr/karategi.png" width=30px> Rentrée 2025 <img src="https://kcsuresnes.fr/karategi.png" width=30px> 
 >
+>- Nouveau créneau enfants 6/9 ans: mercredi 17h30 - 18h15!
 >- Préinscriptions ouvertes à partir du 1er juillet.
 >- Venez nous rencontrer au forum des associations de Suresnes le samedi 6 septembre !
 >- Début des cours ados et adultes le mercredi 10 septembre.
@@ -25,8 +26,9 @@ Gymnase Arnaud Beltrame (tout neuf)
 Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.com/pBrsGZj.png)](https://goo.gl/maps/riT4vF77S8k5KmtJA) 
 
 **Mercredi**  
-- Ados >= 11 ans: 18h15 - 19h15
-- Adultes: 19h30 - 20h45
+- Enfants 6/9 ans: 17h30 - 18h15
+- Ados >= 10 ans: 18h15 - 19h15
+- Adultes: 19h30 - 21h
 
 **Samedi**  
 - Ados/Adultes: 10h30 - 12h
