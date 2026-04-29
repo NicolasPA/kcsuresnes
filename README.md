@@ -38,6 +38,8 @@ Professeur: Pascal Pinault (6ᵉ dan)
 Assistants: Cédric Julien (2ᵉ dan), Samir Boukhari (2ᵉ dan)  
 Fondateur: Pierre Blot (8ᵉ Dan)
 
+Lignée historique sur 4 siècle: [Lignée](pages/lignee.md)
+
 ## Inscription
 
 Les enfants de 5 ans atteignant 6 ans entre septembre et décembre peuvent être inscrits pour les cours 6/9 ans.
