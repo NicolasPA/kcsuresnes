@@ -38,7 +38,7 @@ Professeur: Pascal Pinault (6ᵉ dan)
 Assistants: Cédric Julien (2ᵉ dan), Samir Boukhari (2ᵉ dan)  
 Fondateur: Pierre Blot (8ᵉ Dan)
 
-Lignée historique sur 4 siècle: [Lignée](pages/lignee.md)
+Lignée historique sur 4 siècles: [Lignée](pages/lignee.md)
 
 ## Inscription
 
