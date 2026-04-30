@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD
-    A1["Kusanku<br/>(~1700)<br/>China"]
+    A1["Kusanku<br/>(~1700)<br/>Chine"]
     A2["Chatan Yara<br/>(1668–1756)<br/>Okinawa"]
     A3["Takahara Pechin<br/>(1683-1760)<br/>Okinawa"]
     B1["Kangi Sakugawa<br/>(1733-1815)<br/>Okinawa"]
