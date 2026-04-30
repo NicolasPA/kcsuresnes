@@ -29,7 +29,7 @@ graph TD
     L --> M["Pierre Blot<br/>(1954-)<br/>KC Suresnes, France"]
     K --> M
     J --> M
-    M --> N["Pascal Pinault<br/>(-)<br/>KC Suresnes, France"]
+    M --> N["Pascal Pinault<br/>(1961-)<br/>KC Suresnes, France"]
 ```
 
 <!-- Load Mermaid library from CDN -->
