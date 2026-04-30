@@ -5,7 +5,7 @@ graph TD
     A1["Kusanku<br/>(~1700)<br/>China"]
     A2["Chatan Yara<br/>(1668–1756)<br/>Okinawa"]
     A3["Takahara Pechin<br/>(1683-1760)<br/>Okinawa"]
-    B1["Kangi Sakugawa<br/>(?)<br/>Okinawa"]
+    B1["Kangi Sakugawa<br/>(1733-1815)<br/>Okinawa"]
     A1 --> B1
     A2 --> B1
     A3 --> B1
@@ -16,20 +16,20 @@ graph TD
     D --> F["Gichin Funakoshi<br/>(1868-1957)<br/>Okinawa → Tokyo"]
     E --> F
     --> G["Minoru Mochizuki<br/>(1907-2003)<br/>Japon → France"]
-    --> H["Hiroo Mochizuki<br/>(1936)<br/>Japon → France"]
+    --> H["Hiroo Mochizuki<br/>(1936-)<br/>Japon → France"]
     --> I["Henry Plée<br/>(1923-1997)<br/>France"]
     J["Taïji Kasé<br/>(1929-2004)<br/>Japon → France"]
     F -.-> J
-    I --> K["Jean-Pierre Lavorato<br/>(1944)<br/>France"]
+    I --> K["Jean-Pierre Lavorato<br/>(1944-)<br/>France"]
     J --> K
-    I --> L["Georges Hernaez<br/>(1941)<br/>France"]
+    I --> L["Georges Hernaez<br/>(1941-)<br/>France"]
     G --> L
     H --> L
     J --> L
-    L --> M["Pierre Blot<br/>(1954)<br/>KC Suresnes, France"]
+    L --> M["Pierre Blot<br/>(1954-)<br/>KC Suresnes, France"]
     K --> M
     J --> M
-    M --> N["Pascal Pinault<br/>()<br/>KC Suresnes, France"]
+    M --> N["Pascal Pinault<br/>(-)<br/>KC Suresnes, France"]
 ```
 
 <!-- Load Mermaid library from CDN -->
