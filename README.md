@@ -36,7 +36,7 @@ Recommandations d'équipement: [Équipements](pages/equipements.md)
 
 Professeur: Pascal Pinault (6ᵉ dan)  
 Assistants: Cédric Julien (2ᵉ dan), Samir Boukhari (2ᵉ dan)  
-Fondateur: Pierre Blot (8ᵉ Dan)
+Fondateur: Pierre Blot (8ᵉ dan)
 
 Lignée historique sur 4 siècles: [Lignée](pages/lignee.md)
 
