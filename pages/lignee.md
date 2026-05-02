@@ -30,6 +30,9 @@ graph TD
     K --> M
     J --> M
     M --> N["Pascal Pinault<br/>(1961-)<br/>KC Suresnes, France"]
+    
+    classDef dottedStyle stroke:#333,stroke-dasharray: 5 5,stroke-width:2px
+    class A1,A2 dottedStyle
 ```
 
 <!-- Load Mermaid library from CDN -->
