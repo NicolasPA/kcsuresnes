@@ -2,9 +2,24 @@
 
 ```mermaid
 graph TD
-    A1["Kusanku<br/>(~1700)<br/>Chine"]
+    A01["Représentations picuturales d'arts martiaux<br/>(-3000 AEC)<br/>Égypte, Mésopotamie"]
+    -.-> A02["Mentions dans les Védas<br/>(-1500 AEC)<br/>Inde"]
+    -.-> A03["Mentions dans les Annales des Printemps et Automnes<br/>(-500 AEC)<br/>Chine"]
+    -.-> A04["Temple Shaolin: Buddhabhadra, Bodhidharma, Huiguang, Sengchou, Huike <br/>(~500)<br/>Inde → Chine"]
+    A02 -.-> A04
+
+    -.-> A05["36 familles Min de Kume: Sai Kaken, <br/>(>1400)<br/>Chine → Okinawa"]
+    A04 -.-> A06["Émissaires de l'empire Chinois<br/>(>1400)<br/>Chine → Okinawa"]
+    -.-> A07["Noblesse et élite du Royaume des Ryukyu<br/>(1429–1879)<br/>Okinawa"]
+    A05 -.-> A07
+    A08["Autres influences<br/>(>1300)<br/>Taiwan, Corée, Thailand, Malaisie, Indonésie"]
+    A08 -.-> A07
+
+    A04 -.-> A1["Kusanku<br/>(~1700)<br/>Chine"]
     A2["Chatan Yara<br/>(1668–1756)<br/>Okinawa"]
+    A07 -.-> A2
     A3["Takahara Pechin<br/>(1683-1760)<br/>Okinawa"]
+    A07 -.-> A3
     B1["Kangi Sakugawa<br/>(1733-1815)<br/>Okinawa"]
     A1 --> B1
     A2 --> B1
@@ -32,7 +47,7 @@ graph TD
     M --> N["Pascal Pinault<br/>(1961-)<br/>KC Suresnes, France"]
     
     classDef dottedStyle stroke:#333,stroke-dasharray: 5 5,stroke-width:2px
-    class A1,A2 dottedStyle
+    class A01,A02,A03,A04,A05,A06,A07,A08 dottedStyle
 ```
 
 <!-- Load Mermaid library from CDN -->
