@@ -50,6 +50,8 @@ graph TD
     class A01,A02,A03,A04,A05,A06,A07,A08 dottedStyle
 ```
 
+Sources: Dr Hokama Tetsuhiro, Pierre Blot
+
 <!-- Load Mermaid library from CDN -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid@11.14.0/dist/mermaid.min.js"></script>
 <!-- Optional: Style Mermaid diagrams -->
