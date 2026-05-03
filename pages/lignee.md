@@ -1,4 +1,4 @@
-# Lignée des professeurs principaux du Karaté Club de Suresnes
+# Lignée historique des professeurs principaux du Karaté Club de Suresnes
 
 ```mermaid
 graph TD
@@ -8,7 +8,7 @@ graph TD
     -.-> A04["Temple Shaolin: Buddhabhadra, Bodhidharma, Huiguang, Sengchou, Huike <br/>(~500)<br/>Inde → Chine"]
     A02 -.-> A04
 
-    -.-> A05["36 familles Min de Kume: Sai Kaken, <br/>(>1400)<br/>Chine → Okinawa"]
+    -.-> A05["36 familles Min de Kume<br/>(>1400)<br/>Chine → Okinawa"]
     A04 -.-> A06["Émissaires de l'empire Chinois<br/>(>1400)<br/>Chine → Okinawa"]
     -.-> A07["Noblesse et élite du Royaume des Ryukyu<br/>(1429–1879)<br/>Okinawa"]
     A05 -.-> A07
@@ -25,10 +25,10 @@ graph TD
     A2 --> B1
     A3 --> B1
     --> B2["Kanga Sakugawa<br/>(1786-1867)<br/>Okinawa"]
-    --> C["Sokon Matsumura<br/>(1797-1889)<br/>Okinawa"]
+    --> C["Sokon Matsumura [Shuri-te]<br/>(1797-1889)<br/>Okinawa"]
     --> D["Anko Itosu<br/>(1831-1915)<br/>Okinawa"]
     C --> E["Anko Asato<br/>(1827-1906)<br/>Okinawa"]
-    D --> F["Gichin Funakoshi<br/>(1868-1957)<br/>Okinawa → Tokyo"]
+    D --> F["Gichin Funakoshi [Shotokan]<br/>(1868-1957)<br/>Okinawa → Tokyo"]
     E --> F
     --> G["Minoru Mochizuki<br/>(1907-2003)<br/>Japon → France"]
     --> H["Hiroo Mochizuki<br/>(1936-)<br/>Japon → France"]
