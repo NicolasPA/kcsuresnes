@@ -41,7 +41,7 @@ graph TD
     G --> L
     H --> L
     J --> L
-    L --> M["Pierre Blot<br/>(1954-)<br/><b>1976 opening of Karate Club Suresnes<b/><br/>France"]
+    L --> M["Pierre Blot<br/>(1954-)<br/><b>1976 opening of the Suresnes Karate Club<b/><br/>France"]
     K --> M
     J --> M
     M --> N["Pascal Pinault<br/>(1961-)<br/>KC Suresnes, France"]
