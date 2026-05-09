@@ -27,7 +27,7 @@ Les 20 préceptes directeurs du karaté-dô | Gichin Funakoshi | Le fondement de
 L'essence du karaté | Gichin Funakoshi | Histoire et philosophie du karaté
 Histoire du karaté français | Guy Sauvin | Débuts en France, création de la fédération, premiers champions devenus maitres aujourd'hui
 Karaté et kobudo à la source | Jean-Charles Juster | Histoire du karaté et du kobudo à Okinawa jusqu'à aujourd'hui 
-Entretiens à Okinawa avec ses maîtres de karaté de kobudô (I à V) | Jean-Charles Juster | Entretiens avec des maîtres actuels à Okinawa
+Entretiens à Okinawa avec ses maîtres de karaté et de kobudô (I à V) | Jean-Charles Juster | Entretiens avec des maîtres actuels à Okinawa
 Chronique martiales | Henri Plée | Recueil d'articles publiés dans des revues par le pionnier du karaté en Europe à partir des années 50
 Les Katas | Kenji Tokitsu | Théorie et réflexion sur les katas
 La Voie du karaté : pour une théorie des arts martiaux japonais | Kenji Tokitsu | Théorie et réflexion sur le karaté
