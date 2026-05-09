@@ -29,12 +29,14 @@ graph TD
     --> D["Anko Itosu<br/>(1831-1915)<br/>Okinawa"]
     C --> E["Anko Asato<br/>(1827-1906)<br/>Okinawa"]
     D --> F["Gichin Funakoshi [Shotokan]<br/>(1868-1957)<br/>Okinawa → Tokyo"]
+    --> F2["Gigo Funakoshi<br/>(1906-1945)<br/>Okinawa → Tokyo"]
     E --> F
-    --> G["Minoru Mochizuki<br/>(1907-2003)<br/>Japan → France"]
-    --> H["Hiroo Mochizuki<br/>(1936-)<br/>Japan → France"]
+    --> G["Minoru Mochizuki<br/>(1907-2003)<br/>Japon → France"]
+    --> H["Hiroo Mochizuki<br/>(1936-)<br/>Japon → France"]
     --> I["Henry Plée<br/>(1923-1997)<br/>France"]
-    J["Taïji Kasé<br/>(1929-2004)<br/>Japan → France"]
-    F -.-> J
+    J["Taïji Kasé<br/>(1929-2004)<br/>Japon → France"]
+    F --> J
+    F2 --> J
     I --> K["Jean-Pierre Lavorato<br/>(1944-)<br/>France"]
     J --> K
     I --> L["Georges Hernaez<br/>(1941-)<br/>France"]
