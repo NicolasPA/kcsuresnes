@@ -1,5 +1,14 @@
 <link rel="shortcut icon" type="image/png" href="karategi.png">
 
+><img src="https://kcsuresnes.fr/karategi.png" width=30px> Rentrée septembre 2026 <img src="https://kcsuresnes.fr/karategi.png" width=30px> 
+>
+>- Préinscriptions ouvertes à partir du 1er juillet.
+>- Venez nous rencontrer au forum des associations de Suresnes le samedi 5 septembre !
+>- Début des cours ados et adultes le mercredi 9 septembre.
+>- Session information/inscription/paiement le samedi 12 septembre de 14h à 14h30.
+>- Premier cours enfants samedi 12 septembre 14h30-15h30 pour les 6/9 et 15h30-16h30 pour les 10/12.
+
+
 Club de karaté do Shotokan
 - Enfants, ados et adultes
 - Karaté traditionnel
