@@ -63,7 +63,7 @@ Les prix comprennent 39 € de [licence](https://www.ffkarate.fr/espace-licencie
 
 Le réglement peut se faire par chèque ou espèces et peut se faire en deux fois.  
 
-_Un cours d'essai gratuit est possible._
+_Un cours d'essai gratuit est possible. Les cours d'essai pour les enfants sont possibles uniquement en septembre._
 
 **Tarifs**:
 - Enfant (≤ 12 ans): 180 €
