@@ -30,7 +30,7 @@ Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.c
 - Adultes: 19h30 - 21h
 
 **Samedi**  
-- Ados/Adultes: 10h30 - 12h
+- Adultes/Ados >= 13 ans: 10h30 - 12h
 - Enfants 6/9 ans: 14h - 15h
 - Ados >= 10 ans: 15h - 16h
 - Cours spécifiques: 16h - 17h
