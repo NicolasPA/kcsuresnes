@@ -6,7 +6,7 @@
 >- Venez nous rencontrer au forum des associations de Suresnes le samedi 5 septembre !
 >- Début des cours ados et adultes le mercredi 9 septembre.
 >- Session information/inscription/paiement le samedi 12 septembre de 14h à 14h30.
->- Premier cours enfants samedi 12 septembre 14h30-15h30 pour les 6/9 et 15h30-16h30 pour les 10/12.
+>- Premier cours enfants samedi 12 septembre 14h30-15h30 pour les 6/9 ans et 15h30-16h30 pour les >= 10 ans.
 
 
 Club de karaté do Shotokan
@@ -32,7 +32,7 @@ Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.c
 **Samedi**  
 - Ados/Adultes: 10h30 - 12h
 - Enfants 6/9 ans: 14h - 15h
-- Enfants 10/12 ans: 15h - 16h
+- Ados >= 10 ans: 15h - 16h
 - Cours spécifiques: 16h - 17h
 
 **Vacances:** en général, les cours n'ont pas lieu pendant les vacances scolaires, sauf le premier samedi matin des vacances pour les ados/adultes.
