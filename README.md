@@ -20,7 +20,7 @@ Club de karaté do Shotokan
 
 ## Cours
 
-Gymnase Arnaud Beltrame (tout neuf)  
+Gymnase Arnaud Beltrame  
 Allée Arnaud Beltrame, 92150 Suresnes [![Arnaud Beltrame Map](https://i.imgur.com/pBrsGZj.png)](https://goo.gl/maps/riT4vF77S8k5KmtJA) 
 
 **Mercredi**  
