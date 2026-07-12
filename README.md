@@ -4,9 +4,8 @@
 >
 >- Préinscriptions ouvertes à partir du 1er juillet.
 >- Venez nous rencontrer au forum des associations de Suresnes le samedi 5 septembre !
->- Début des cours ados et adultes le mercredi 9 septembre.
->- Session information/inscription/paiement le samedi 12 septembre de 14h à 14h30.
->- Premier cours enfants samedi 12 septembre 14h30-15h30 pour les 6/9 ans et 15h30-16h30 pour les >= 10 ans.
+>- Début des cours le mercredi 9 septembre.
+>- Session information/inscription/paiement le samedi 12 septembre de 14h à 14h30. Les cours enfants sont donc exceptionnellement décalés de 30 min.
 
 
 Club de karaté do Shotokan
